@@ -13,8 +13,10 @@ https://developer.webex.com/buttons-and-cards-designer
 When sending messages using Adaptive card in Python, use the json output from this tool.
 
 To output json from this tool, click the button below. Save the json on the clipboard to a file.
-[designer.png].
-[json.png].
+![designer](https://user-images.githubusercontent.com/120566139/211695299-67366394-857c-4ff4-bbd9-0f13c7a5a5d8.png)
+
+The following Json file will be output.
+![json](https://user-images.githubusercontent.com/120566139/211695344-f37021dd-7519-4af1-a9f8-376726afebb8.png)
 
 Store the python file and the output json file in the same hierarchy.
 After that, adaptive cards can be sent to any user simply by running Python.
